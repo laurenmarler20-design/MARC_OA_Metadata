@@ -1,7 +1,7 @@
 # Marc_OA_Metadata
 This script that adds Open Access 506 fields to MARC records for Open Access materials.
 
-# dependencies
+# Dependencies
 To use this script, install pymarc.
 
 # Input
