@@ -4,7 +4,7 @@
 pip install pymarc
 
 #import attributes
-from pymarc import Record, Field, Subfield, Indicators, MARCReader, Leader
+from pymarc import Record, Field, Subfield, Indicators, MARCReader
 
 #importing an attribute to make a new copy
 from copy import deepcopy
